@@ -118,5 +118,8 @@ This project aims to summarize movie reviews using AI and display the summaries 
 - OpenAI for providing the GPT-4 model.
 - Gradio for the easy-to-use interface library.
 
+## Data Source
+[Rotten Tomatoes Kaggle Dataset](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
+
 ## License
 We don't need no stinking badges
